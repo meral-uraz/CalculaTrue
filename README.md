@@ -20,6 +20,6 @@ This simple calculator application is developed using C# language and .NET Frame
 
 ## Screenshots
 
-![[CalculaTrue.png]]
+![[[CalculaTrue.png](https://github.com/meral-uraz/CalculaTrue/blob/master/CalculaTrue.png)https://github.com/meral-uraz/CalculaTrue/blob/master/CalculaTrue.png]]
 
-![[CalculaTrueMemory 1.png]]
+![[[CalculaTrueMemory 1.png](https://github.com/meral-uraz/CalculaTrue/blob/master/CalculaTrueMemory.png)https://github.com/meral-uraz/CalculaTrue/blob/master/CalculaTrueMemory.png]]
